@@ -290,12 +290,12 @@ body {
 
 .social{
   display: block;
-  width: 80%;
+  width: 95%;
   margin: auto;
   }
 .social a{
-  font-size: 3vw;
-  margin: 0.5vw;
+  font-size: 33px;
+  /* margin: 0.5vw; */
   height: 13px;
 }
 
