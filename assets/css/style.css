@@ -27,9 +27,11 @@ body {
     justify-content: space-between;
     height: 70px;
     padding: 0 100px;
-    /* position: fixed;
+    position: fixed;
     top: 0;
-    width: 100%; */
+    width: 100%;
+    overflow: hidden;
+ 
   }
   nav .logo{
     color: #fff;
@@ -256,10 +258,13 @@ body {
     margin: 10px 0;
   }
   
-  
+  .mainContainer{
+    margin-top: 75px;
+  }
 
 
   .container {
+    margin-top: 30px;
   width: 80%;
   padding: 16px;
   margin: auto;
