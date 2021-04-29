@@ -33,9 +33,9 @@
     opacity: 1;
   }
   
-  .middle text {
-    background-color: #04AA6D;
-    color: white;
-    font-size: 1vw;
+  .img-text {
+    background-color: #f5fffba2;
+    color: rgb(12, 158, 6);
+    font-size: 2vw;
     padding: 16px 32px;
   }
