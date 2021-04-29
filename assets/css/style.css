@@ -1,3 +1,6 @@
+/*Montserrat font*/
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+
 * {box-sizing: border-box;}
 a{
   text-decoration: none;
